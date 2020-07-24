@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Irene Irungu
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Doctor of Financial Mathematics
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Karatina University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include financial time series modelling, risk modelling, statistical inference and machine learning.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Risk Modelling
+- Data Analytics
+- Business Intelligence
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Financial Mathematics
+    institution: Pan-African University Institute of Basic Sciences, Technology and Innovation
+    year: 2018
+  - course: MSc in Applied Statistics
+    institution: Jomo Kenyatta University of Agriculture and Technology
+    year: 2013
+  - course: BSc in Actuarial Science
+    institution: Jomo Kenyatta University of Agriculture and Technology
+    year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +44,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:irungu.irenekareigi@gmail.com".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?hl=en&user=QP1nceoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/IreneIrungu
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +70,7 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Irene Irungu is a Doctor of Financial Mathematics at Karatina University. Her research interests include financial time series modelling, risk modelling, statistical inference and machine learning. As the academic leader for the BSc in Actuarial Science programme, she is involved in the development and review of curricula, teaching, advising and mentoring students as well as conducting research activities. In addition, serves as a patron of the Karatina University Actuarial Science students in which she supports the organisation of professional development trainings for students.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
+As a trained Statistician, she benefits from knowledge of advanced statistical techniques and concepts such as time series analysis, regression, properties of distributions, statistical tests and proper usage. She also has knowledge of a variety of machine learning techniques such as clustering, decision tree learning, artificial neural networks and support vector machines and their applications. Coupled with this knowledge is the experience in developing the corresponding algorithms using statistical computing languages such as R, Python and SPSS. She is continously involved in training on R and SPSS.
