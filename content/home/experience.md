@@ -18,27 +18,45 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Academic Leader - Actuarial Science"
+  company = "Karatina University"
+  company_url = "https://www.karu.ac.ke/"
+  location = "Kenya"
+  date_start = "2013-09-01"
   date_end = ""
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Teaching and examining undergraduate and postgraduate students in Financial Mathematics, Actuarial Mathematics, Statistics, Life and General Insurance.
+  * Development and review of curriculum.
+  * Undertaking research in the areas of Finance, Statistics and Risk Management.
+  * Organizing academic field trips for BSc. Actuarial Science students.
+  * Coordinating the field internship/ attachment placements for BSc. Actuarial Science students.
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Patron of Karatina University Actuarial Students Association"
+  company = "Karatina University"
+  company_url = "https://karuasa.wordpress.com/"
+  location = "Kenya"
+  date_start = "2015-03-01"
+  date_end = ""
+  description = """Mentoring Actuarial students through organization of academic and industrial talks and conferences.."""
+  
+  [[experience]]
+  title = "Enterprise Risk Analyst"
+  company = "Equity Bank"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Kenya"
+  date_start = "2012-09-01"
+  date_end = "2013-08-01"
+  description = """
+  Responsibilities included:
+  
+  * Development of credit scoring model using Logistic regression.
+  * Creation of a customer segmentation algorithms using and Decision Tree technique.
+  * Data mining to support decisong making.
+  
+  """
 
 +++
