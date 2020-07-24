@@ -47,7 +47,7 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:irungu.irenekareigi@gmail.com".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/irenekareigi
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=QP1nceoAAAAJ
