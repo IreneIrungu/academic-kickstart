@@ -1,1 +1,20 @@
++++ abstract = "GARCH models have been commonly used to capture volatility dynamics in financial time series. A key assumption utilized is that the series is stationary as this allows for model identifiability. This however violates the volatility clustering property exhibited by financial returns series. Existing methods attribute this phenomenon to parameter change. However, the assumption of fixed model order is too restrictive for long time series. This paper proposes a change-point estimator based on Manhattan distance. The estimator is applicable to GARCH model order change-point detection. Procedures are based on the sample autocorrelation function of squared series. The asymptotic consistency of the estimator is proven theoretically."
 
+authors = ["Irene W. Irungu", "Peter N. Mwita", "Antony G. Waititu"]
+title = "Consistency of the Model Order Change-Point Estimator for GARCH Models"
+date = "2018" 
+image_preview = "" 
+math = true 
+publication_types = ["2"] 
+publication = "Journal of Mathematical Finance" 
+publication_short = "JMF" 
+selected = false 
+url_code = "" url_dataset = "" url_pdf = "https://www.scirp.org/pdf/JMF_2018040316424003.pdf" 
+url_project = "" url_slides = "" url_video = ""
+
+[[url_custom]] name = "View Journal Article" url = "https://www.scirp.org/journal/paperinformation.aspx?paperid=83578"
+
+Optional featured image (relative to static/img/ folder).
+[header] image = "" caption = ""
+
++++
