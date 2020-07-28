@@ -1,5 +1,5 @@
 ---
-title: Publications of Consistency
+title: Publications
 
 # View.
 #   1 = List
