@@ -35,7 +35,7 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Patron of Karatina University Actuarial Students Association"
+  title = "Karatina University Actuarial Students Association"
   company = "Karatina University"
   company_url = "https://karuasa.wordpress.com/"
   location = "Kenya"
